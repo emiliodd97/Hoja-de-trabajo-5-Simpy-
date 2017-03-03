@@ -1,0 +1,3 @@
+La mejor estrategia sería la realización de instrucciones en paralelo, 
+debido a que como se mostró en la gráfica de 6 Instrucciones, 
+al realizar varias instrucciones al mismo tiempo  se pueden acabar varios procesos más rapidamente.
